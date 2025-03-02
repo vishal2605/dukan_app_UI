@@ -2,6 +2,17 @@
 
 Welcome to the Dukan App UI repository! This project is designed to create a user-friendly interface for a shopping app using modern web technologies such as JavaScript, Tailwind CSS, and React.
 
+## 📌 Preview  
+Here's a glimpse of the **Dukan App UI**:  
+
+### Mobile View  
+<img src="src/assets/Screenshot%202025-03-02%20150956.png" alt="Dukan App Mobile View" width="300"/>
+
+### Laptop View  
+<img src="src/assets/Screenshot%202025-03-02%20144807.png" alt="Dukan App Laptop View" width="800"/>
+
+---
+
 ## Table of Contents
 
 - [Introduction](#introduction)
